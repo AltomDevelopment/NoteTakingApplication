@@ -26,7 +26,3 @@ function addImage() {
 };
 
 
-function addVoice() {
-
-}
-
